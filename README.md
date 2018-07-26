@@ -1,2 +1,2 @@
 # PnP
-PnP-Collections and GM Preparations (in One Note)
+PnP-Collections and GM-Preparations (in One Note)
